@@ -27,7 +27,7 @@
 <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="">
 </div>
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=ChunChunMaruOfficia
+https://github-readme-streak-stats.herokuapp.com/?user=ChunChunMaruOfficial
 <!--
 **ChunChunMaruOfficial/ChunChunMaruOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

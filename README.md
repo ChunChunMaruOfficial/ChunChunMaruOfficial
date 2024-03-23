@@ -8,12 +8,16 @@
 <h3>👩‍💻  About Me :</h3>
     <ul>
     <li><img height="20px" src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="">I'm a beginner web developer</li>
-<li>I hack the Pentagon regularly once a month</li>
-<li><img height="20px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmx6bjJhODdzb2lmdW03djg0azV2cjVubHVsNm5uZjNyeDU5OWdvNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SS8CV2rQdlYNLtBCiF/giphy.gif" alt="">HTML and CSS programmer</li>
-<li>in fact js is basically normal</li>
-<li>you can ask me to make a website, price: cup of coffee</li>
+<li>🔭I hack the Pentagon regularly once a month</li>
+<li>🌱HTML and CSS programmer</li>
+<li>👯In fact js is basically normal</li>
+<li>⚡You can ask me to make a website, price: cup of coffee</li>
 </ul>
 </div>
+<div>
+    <h3>🛠  Languages and Tools :</h3>
+</div>
+
 <!--
 **ChunChunMaruOfficial/ChunChunMaruOfficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

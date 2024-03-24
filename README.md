@@ -27,11 +27,11 @@
 <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="">
 </div>
 <h1>🔥 My Stats : </h1>
-<div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChunChunMaruOfficial&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp;&nbsp; <img height='200px' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpheGZzMG95dG1udmg2aGxyczFmeTBnMWJwMmJtMWxqMGtydmN6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlD6X5Pi5EKDmbm/giphy.gif" alt=""></div>
+<div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChunChunMaruOfficial&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height='200px' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpheGZzMG95dG1udmg2aGxyczFmeTBnMWJwMmJtMWxqMGtydmN6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlD6X5Pi5EKDmbm/giphy.gif" alt=""></div>
 <div>
 <h1>🌐 My social: </h1>
 <a href="https://discordapp.com/users/682140983256678431"><img height="80px"
-        src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""></a>
+        src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://t.me/ChunChunMaruOnline">
     <img height="80px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png"

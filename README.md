@@ -5,7 +5,7 @@
         <h2>I will definitely learn to code...</h2>
 </div>
 <div>
-<h3>👩‍💻  About Me :</h3>
+<h1>👩‍💻  About Me :</h1>
     <ul>
     <li><img height="20px" src="https://camo.githubusercontent.com/870d765b5c096038f097185a0ffa08df4011c0491b8039f3a7d5eeebf4d82c7e/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" alt="">I'm a beginner web developer</li>
 <li>🔭I hack the Pentagon regularly once a month</li>
@@ -15,7 +15,7 @@
 </ul>
 </div>
 <div>
-    <h2>🛠  Languages and Tools :</h2>
+    <h1>🛠  Languages and Tools :</h1>
     <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="">
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="">
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="">
@@ -29,6 +29,6 @@
 <h1>🔥 My Stats : </h1>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChunChunMaruOfficial&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
 <div>
-<h3>🌐 My social: </h3>
+<h1>🌐 My social: </h1>
 <img height="80px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""> <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="">
 </div>

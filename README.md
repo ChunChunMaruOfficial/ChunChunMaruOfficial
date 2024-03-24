@@ -30,5 +30,10 @@
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChunChunMaruOfficial&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
 <div>
 <h1>🌐 My social: </h1>
-<img height="80px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""> <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="">
-</div>
+<a href="https://discordapp.com/users/682140983256678431"><img height="80px"
+        src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""></a>
+<a href="https://t.me/ChunChunMaruOnline">
+    <img height="80px"
+        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png"
+        alt="">
+    </div></a>

@@ -2,7 +2,7 @@
 <div id='header' align="center">
     <img height='180px' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTA4ZWl3aWR0dDFuZGVmcmZsOW1oNnR3NWx4N3Z6ZGJpdGJzZWxlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXynzLoP14IHsnfGmO/giphy.gif"
         alt="">
-        <h2>I will definitely learn to code...</h2>
+        <h2>I will definitely learn to code....</h2>
 </div>
 <div>
 <h1>👩‍💻  About Me :</h1>

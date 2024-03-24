@@ -28,5 +28,7 @@
 </div>
 <h3>🔥 My Stats : </h3>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChunChunMaruOfficial&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>
+<div>
 <h3>🌐 My social: </h3>
 <img height="80px" src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""> <img height="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png" alt="">
+</div>

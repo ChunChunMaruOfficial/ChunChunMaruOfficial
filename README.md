@@ -37,6 +37,6 @@
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png"
         alt="">
     </div></a>
-<div align="cenetr">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFpYnE1ZzhpNWg3ejhkMXc3eWo1Y3N4bzRoZTQycGQ1NnBrcnU0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif" alt="">
+<div align="center">
+    <img border-radius='15px' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnFpYnE1ZzhpNWg3ejhkMXc3eWo1Y3N4bzRoZTQycGQ1NnBrcnU0MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TvmbZRpwDoTny/giphy.gif" alt="">
 </div>

@@ -16,13 +16,14 @@
 </div>
 <div>
     <h1>🛠  Languages and Tools :</h1>
-    <div style="
-    width: max-content;
-    display: flex;
-    padding: 9px 5px 5px 5px;
-    border-radius: 12px;
-    background-color: #0f4292;
-">
+<div width="max-content" 
+     display="flex" 
+     padding-top="9px" 
+     padding-right="5px" 
+     padding-bottom="5px" 
+     padding-left="5px" 
+     border-radius="12px" 
+     background-color="#0f4292">
     <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="">&nbsp;&nbsp;

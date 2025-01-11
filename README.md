@@ -16,8 +16,7 @@
 </div>
 <div>
     <h1>🛠  Languages and Tools :</h1>
-<div width="max-content" 
-     display="flex" 
+<div width="max-content" display="flex" 
      padding-top="9px" 
      padding-right="5px" 
      padding-bottom="5px" 

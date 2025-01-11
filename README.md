@@ -19,19 +19,20 @@
 <div 
     width="max-content"
            background-color="#0f4292">
+    <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="">&nbsp;&nbsp;
     <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="">&nbsp;&nbsp;
+    <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="">
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="">&nbsp;&nbsp;
-<img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="">&nbsp;&nbsp;
+    <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/typescript/typescript-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/react/react-original.svg" alt="">&nbsp;&nbsp;
-<img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" alt="">&nbsp;&nbsp;
-<img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="">&nbsp;&nbsp;
-<img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="">&nbsp;&nbsp;
     <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="">&nbsp;&nbsp;
         <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" alt="">&nbsp;&nbsp;
         <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/handlebars/handlebars-original.svg" alt="">&nbsp;&nbsp;
         <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/json/json-original.svg" alt="">&nbsp;&nbsp;
-<img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="">
+    <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="">&nbsp;&nbsp;
+<img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="">&nbsp;&nbsp;
+    <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" alt="">&nbsp;&nbsp;
         </div>
 </div>
 <h1>🔥 My Stats : </h1>

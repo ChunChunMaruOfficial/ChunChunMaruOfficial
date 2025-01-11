@@ -16,6 +16,7 @@
 </div>
 <div>
     <h1>🛠  Languages and Tools :</h1>
+    <div background-color: '№f0f8ff'>
     <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="">&nbsp;&nbsp;
@@ -25,7 +26,11 @@
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" alt="">&nbsp;&nbsp;
     <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="">&nbsp;&nbsp;
+        <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/nodejs/nodejs-original.svg" alt="">&nbsp;&nbsp;
+        <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/handlebars/handlebars-original.svg" alt="">&nbsp;&nbsp;
+        <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/json/json-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="">
+        </div>
 </div>
 <h1>🔥 My Stats : </h1>
 <div><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ChunChunMaruOfficial&theme=transparent&hide_border=false" alt="GitHub Streak" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height='200px' src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmpheGZzMG95dG1udmg2aGxyczFmeTBnMWJwMmJtMWxqMGtydmN6OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlD6X5Pi5EKDmbm/giphy.gif" alt=""></div>

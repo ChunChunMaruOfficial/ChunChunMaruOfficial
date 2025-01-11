@@ -16,7 +16,7 @@
 </div>
 <div>
     <h1>🛠  Languages and Tools :</h1>
-<div class='container>
+<div class='container'>
     <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/css3/css3-original.svg" alt="">&nbsp;&nbsp;
 <img height="60px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" alt="">&nbsp;&nbsp;

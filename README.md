@@ -41,7 +41,7 @@
 <h1>🌐 My social: </h1>
 <a href="https://discordapp.com/users/682140983256678431"><img height="80px"
         src="https://www.svgrepo.com/show/353655/discord-icon.svg" alt=""></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://t.me/ChunChunMaruOnline">
+<a href="https://t.me/ChunChunMaruOnl1ne">
     <img height="80px"
         src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png"
         alt="">
